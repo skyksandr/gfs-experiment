@@ -1,0 +1,18 @@
+GEM
+  specs:
+    narray (0.6.1.2)
+    narray_miss (1.4.0)
+      narray
+    numru-narray (1.0.3)
+    rb-grib (0.4.0)
+      narray_miss
+      numru-narray
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rb-grib
+
+BUNDLED WITH
+   1.12.5
